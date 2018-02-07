@@ -3,22 +3,27 @@
     {
       "id":"01",
       "duration":"duration",
-          "genre":"Classical"
+      "genre":"genre",
       "title": "Beethoven Sonatas",
       "songs": [
         {
           "id":"03.1",
           "duration":"5:03",
+          "genre":"Classical",
           "title": "Piano Sonata No. 3",
           "artist": "Beethoven"
         },
         {
           "id":"07",
+                    "duration":"5:03",
+          "genre":"Classical",
           "title": "Piano Sonata No. 7",
           "artist": "Beethoven"
         },
         {
           "id":"10",
+                    "duration":"5:03",
+          "genre":"Classical",
           "title": "Piano Sonata No. 10",
           "artist": "Beethoven"
         }
@@ -30,16 +35,22 @@
       "songs": [
         {
           "id":"02",
+                    "duration":"5:03",
+          "genre":"Classical",
           "title": "Piano Concerto No. 0",
           "artist": "Beethoven"
         },
         {
           "id":"04",
+                    "duration":"5:03",
+          "genre":"Classical",
           "title": "Piano Concerto No. 4",
           "artist": "Beethoven"
         },
         {
           "id":"06",
+                    "duration":"5:03",
+          "genre":"Classical",
           "title": "Piano Concerto No. 6",
           "artist": "Beethoven"
         }
@@ -48,20 +59,27 @@
     
     {
       "id":"03",
+
       "title": "Playlist 3",
       "songs": [
         {
           "id":"011",
+                    "duration":"5:03",
+          "genre":"Classical",
           "title": "Song 1",
           "artist": "Artist"
         },
         {
           "id":"022",
+                    "duration":"5:03",
+          "genre":"Classical",
           "title": "Song 2",
           "artist": "Artist"
         },
         {
           "id":"033",
+                    "duration":"5:03",
+          "genre":"Classical",
           "title": "Song 3",
           "artist": "Artist"
         }
