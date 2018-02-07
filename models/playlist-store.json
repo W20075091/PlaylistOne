@@ -2,10 +2,13 @@
   "playlistCollection": [
     {
       "id":"01",
+      "duration":"duration",
+          "genre":"Classical"
       "title": "Beethoven Sonatas",
       "songs": [
         {
           "id":"03.1",
+          "duration":"5:03",
           "title": "Piano Sonata No. 3",
           "artist": "Beethoven"
         },
